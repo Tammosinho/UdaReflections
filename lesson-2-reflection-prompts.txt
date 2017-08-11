@@ -24,6 +24,7 @@ organized? How would branches help?
 testing new features, adding different variants of something
 
 How do the diagrams help you visualize the branch structure?
+They show the different branches and which commit is part of which branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
