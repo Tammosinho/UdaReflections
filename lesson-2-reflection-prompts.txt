@@ -28,6 +28,10 @@ They show the different branches and which commit is part of which branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+A combined branch, ordered by date
+
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+faster, you don't miss changes
